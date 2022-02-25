@@ -54,6 +54,7 @@
     ]
   },
   "devDependencies": {
+    "@storybook/addon-a11y": "^6.4.19",
     "@storybook/addon-actions": "^6.4.9",
     "@storybook/addon-essentials": "^6.4.9",
     "@storybook/addon-links": "^6.4.9",
@@ -62,6 +63,7 @@
     "@storybook/react": "^6.4.9",
     "@storybook/testing-react": "^1.2.3",
     "chromatic": "^6.5.1",
+    "jest-axe": "^5.0.1",
     "msw": "^0.38.1",
     "msw-storybook-addon": "^1.6.0"
   },
